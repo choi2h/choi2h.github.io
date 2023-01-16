@@ -1,7 +1,7 @@
 ---
 title: BigDecimal을 사용해보자.
-date: 2023-01-17 00:33:02 +/- TTTT
-categories: [Language / Java]
+date: 2023-01-17 00:33:02 +09:00
+categories: [Language/Java]
 tags: [java, BigDecimal]	
 ---
 
@@ -32,7 +32,7 @@ BigDecimal은 JAVA 내에서 정밀하게 값을 계산 / 표현할 수 있는 �
 <br/>
 
 ### BigDecimal 사용 방법
-실제 사용방법을 확인해보자.
+실제 사용gi방법을 확인해보자.
 ``` java
 public static void main(String[] args) {
         BigDecimal bd1 = new BigDecimal("10.5");
