@@ -21,8 +21,8 @@
 }
 
 %link-hover {
-  color: #4b57fd !important;
-  border-bottom: 1px solid #4b57fd;
+  color: #333333 !important;
+  border-bottom: 1px solid #333333;
   text-decoration: none;
 }
 
@@ -62,7 +62,7 @@
   text-decoration: none;
 }
 
-@mixin sidebar-links($color: rgba(103, 41, 41, 0.5)) {
+@mixin sidebar-links($color: #94ABA2) {
   color: $color;
   transition: color 0.35s ease-in-out;
   user-select: none;
