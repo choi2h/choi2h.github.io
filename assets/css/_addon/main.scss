@@ -79,7 +79,7 @@ $sidebar-display: "sidebar-display";
   a {
     @include sidebar-links;
     &:hover {
-      color: #636851;
+      color: #868f74;
       @include no-text-decoration;
     }
   }
@@ -117,12 +117,12 @@ $sidebar-display: "sidebar-display";
     height: $tab-height;
     &:hover {
       .nav-link {
-        color: #f8f9facf;
+        color: #868F74;
       }
     }
     &.active {
       .nav-link {
-        color: #fcfcfc;
+        color: #18605d;
       }
     }
   }
@@ -301,7 +301,7 @@ $sidebar-display: "sidebar-display";
   height: $topbar-height;
   position: fixed;
   top: 0;
-  left: 260px; /* same as sidebar width */
+  left: 230px; /* same as sidebar width */
   right: 0;
   transition: top 0.2s ease-in-out;
   z-index: 50;
