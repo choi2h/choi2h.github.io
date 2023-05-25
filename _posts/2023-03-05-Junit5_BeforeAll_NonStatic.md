@@ -2,7 +2,7 @@
 publishedL: true
 title: "@BeforeAll 테스트 메소드를 비정적으로 만들고 싶다!!"
 date: 2023-03-05 18:32:02 +09:00
-categories: [FrameWork / Spring]
+categories: [Framework / Spring]
 tags: [java, BigDecimal]	
 ---
 
