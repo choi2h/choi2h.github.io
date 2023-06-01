@@ -1,16 +1,14 @@
 ---
-publishedL: true
+layout: post
 title: "[스프링 분석-1] SpringContainer, BeanFactory, ApplicationContext"
-date: 2023-03-05 18:32:02 +09:00
-categories: [Framework / Spring]
-tags: [Spring, Framework, SpringContainer, BeanFactory, ApplicationContext]	
+author: hwa
+categories: Spring
+tags: Spring, Framework, SpringContainer, BeanFactory, ApplicationContext
 ---
 
 다시 처음으로 돌아가,, 스프링 분석하기부터 시작해본다.  
 기록을 마음 먹었으니, 평소에 헷갈렸던 부분 궁금했던 부분을 하나씩 공부해 나가고자 한다.  
 이번에는 스프링 컨테이너에 대해 공부해보자.
-
-<br/>  
 
 ## 스프링 컨테이너(SpringContainer)란?
 

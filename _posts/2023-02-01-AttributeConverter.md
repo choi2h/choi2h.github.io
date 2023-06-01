@@ -1,11 +1,9 @@
 ---
-publishedL: true
+layout: post
 title: "[JPA] AttributeConverter / @Converter"
-date: 2023-02-01 11:33:02 +09:00
-categories: [Spring]
-tags: [java, Spring, jpa, database]	
----
-
+author: hwa
+categories: Spring
+tags: java, Spring, jpa, database
 ---
 
 MySQL 타입에는 boolean 타입이 따로 존재하지 않는다.  
@@ -16,7 +14,6 @@ JPA를 이용하여 DB 연결을 하는 경우 Boolean형을 0 or 1 (0-false / 1
 바로 @Converter를 명시한 향변환기를 설정해주면 된다.  
 형변환기는 새로운 클래스를 생성하여 AttributeConverter 인터페이스를 구현해줘야 한다.
 
-<br/>
 
 ### AttributeConverter 인터페이스
 

@@ -1,8 +1,9 @@
 ---
-title: BigDecimal을 사용해보자.
-date: 2023-01-17 00:33:02 +09:00
-categories: [Language/Java]
-tags: [java, BigDecimal]	
+layout: post
+title: "BigDecimal을 사용해보자."
+author: hwa
+categories: Java
+tags: java, BigDecimal
 ---
 
 ---
